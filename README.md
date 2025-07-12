@@ -1,6 +1,6 @@
 # Spatiotemporal analysis of dengue incidence in Indonesia: periodicity and wavelet analysis
 
-Code repository for manuscript: spatiotemporal analysis of dengue incidence + climate in Indonesia
+Code repository for manuscript: Spatiotemporal analysis of dengue incidence in Indonesia: periodicity and wavelet analysis
 
 ## R Environment and Package Dependencies
 
