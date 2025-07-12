@@ -47,3 +47,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# data
+data/data_cases_deaths_pop_2016_2024_38.rds
