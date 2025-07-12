@@ -48,3 +48,7 @@ required_packages <- c(
 )
 
 install.packages(required_packages)
+```
+
+## Codes
+Data processing codes available in 'codes/' and codes to produce all figures are available in 'codes/script/'.
